@@ -7,11 +7,11 @@ The purpose of this project is to create a concise webpage with information abou
 ## Results
 
 This website is fairly basic but allows users to filter the results in the table to look for more specific results or nothing can be filtered and the entire table can be viewed. All search results must be in lowercase letters in order for the filters to work since that is how the data is formatted. Below is how the filter bars appear with their default results inside.
-![Default Filter Results](/Users/leahikenberry/Desktop/DU_DATA_Analytics/UFOs/Resources/Default_filters.png)
+![Default Filter Results](https://github.com/likenberry/UFOs/blob/main/Resources/Default_filters.png)
 The user simply has to type their search into one or more of the filter bars and hit the enter key. The table will then display the results that fit the entered criteria. Below is an example of a search for UFOs in the state of Florida ("fl") and "unknown" as the Shape.
-![Example Search Results](/Users/leahikenberry/Desktop/DU_DATA_Analytics/UFOs/Resources/Example_search.png)
+![Example Search Results](https://github.com/likenberry/UFOs/blob/main/Resources/Example_search.png)
 Finally this is an example of the search results in the table when using a single filter, in this case "tx" (Texas) was entered into the State filter.
-![Texas Search Results](/Users/leahikenberry/Desktop/DU_DATA_Analytics/UFOs/Resources/Texas_search.png)
+![Texas Search Results](https://github.com/likenberry/UFOs/blob/main/Resources/TX_search.png)
 
 ## Summary
 
